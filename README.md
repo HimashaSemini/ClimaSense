@@ -1,4 +1,4 @@
-# weathermate_new
+# ClimaSense
 
 A new Flutter project.
 
